@@ -6,3 +6,13 @@ There are four files in this project: testing.data, runsim.c, testsim.c, and the
 
 testing.data is just the example data from the bottom of the 3.9 assignment
 
+runsim.c has all the functions needed to run this project: get_exec_argv, parsing_command_line, and print_usage, as well as main
+
+testsim.c will sleep for a certain amount of seconds and then print the process id for a certain amount of times
+
+makefile: The file Mark wants us to use. It has a slight error. When doing a "make clean", it gives an error message, but it doesn't actually impact the program in any way.
+
+Steps to use this program:
+	type in "make"
+	type in "./runsim n < testing.data" (n is some int)
+	type in "make clean" (after the program runs)
