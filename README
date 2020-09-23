@@ -1,4 +1,8 @@
 This is my README file.
 
-There are four files in this project: runsim.c, testsim.c, testing.data, and the makefile (called makefile).
+My Git repository is https://github.com/Student-RobbieWadud/Project-1.git
+
+There are four files in this project: testing.data, runsim.c, testsim.c, and the makefile (called makefile).
+
+testing.data is just the example data from the bottom of the 3.9 assignment
 
